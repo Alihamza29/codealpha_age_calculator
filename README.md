@@ -21,7 +21,7 @@ Built using:
 
 ## 🛠️ How to Use
 
-1. Clone the repository or [download the ZIP](https://github.com/YOUR-USERNAME/age-calculator-web/archive/refs/hea)
+1. Clone the repository or [download the ZIP](https://alihamza29.github.io/codealpha_age_calculator/)
 2. Open `index.html` in any web browser
 3. Pick or type your date of birth
 4. Click **"Calculate Age"**
